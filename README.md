@@ -1,0 +1,1 @@
+The files included in this repository are examples of the networking skills I have learnt and put to use in networking projects I have taken part in as part of my learning with The Open University and Cisco.
